@@ -1,0 +1,9 @@
+.idea/
+logs/
+swagger/
+beeApi
+mainServer
+!routers/router.go
+routers/
+lastupdate.tmp
+
